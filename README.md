@@ -12,7 +12,7 @@
 </table>
 
 ## Screenshot
-![](./final-output.png)
+![](./finalOutput.png)
 
 ## Overview
 The solution must reflect the design files
