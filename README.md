@@ -18,7 +18,7 @@
 The solution must reflect the design files
 
 ## Built with
-HTML5, CSS3, Flexbox
+HTML5, CSS3, Flexbox, Grid, Vite, Typescript, SCSS
 
 ## Author
 - Frontend Mentor - [@Dekxisosta](https://www.frontendmentor.io/profile/Dekxisosta)
