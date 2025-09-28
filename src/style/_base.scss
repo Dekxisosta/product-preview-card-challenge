@@ -1,0 +1,10 @@
+body{
+    opacity: 0;
+    background-color: var(--clr-cream);
+    height: 100vh;
+    transition: opacity 0.5s ease;
+}
+
+body.loaded{
+    opacity: 1;
+}
